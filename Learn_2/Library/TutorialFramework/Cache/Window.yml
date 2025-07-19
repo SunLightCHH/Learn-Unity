@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentView: TableOfContent
-  PreviousView: 
-  DomainReloadOccured: 1
-  IsOpen: 1
+  PreviousView: Tutorial
+  DomainReloadOccured: 0
+  IsOpen: 0
   IsFaqOpen: 0
   AreTestsRunning: 0
   CurrentTutorial: {fileID: 0}

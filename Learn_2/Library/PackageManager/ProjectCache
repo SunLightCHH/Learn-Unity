@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: E:/Project_Unity/Learn_2/Packages/manifest.json
+    m_FilePath: E:/Project_Unity/Learn-Unity/Learn_2/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,7 +8,7 @@ m_ProjectFiles:
       ticks: 638884173150007025
     m_Hash: 3872996688
   m_LockFileStatus:
-    m_FilePath: E:/Project_Unity/Learn_2/Packages/packages-lock.json
+    m_FilePath: E:/Project_Unity/Learn-Unity/Learn_2/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -19,7 +19,7 @@ m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: E:/Project_Unity/Learn_2/Packages
+m_ProjectPath: E:/Project_Unity/Learn-Unity/Learn_2/Packages
 m_EditorVersion: 6000.1.2f1 (8e2281df4c52)
 m_ResolvedPackages:
 - packageId: com.unity.cinemachine@3.1.0
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.1.0
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.cinemachine@ceed3a7f8d67
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.cinemachine@ceed3a7f8d67
   assetPath: Packages/com.unity.cinemachine
   name: com.unity.cinemachine
   displayName: Cinemachine
@@ -252,7 +252,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.8.2
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.collab-proxy@c854d1f7d97f
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.collab-proxy@c854d1f7d97f
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -417,7 +417,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.2.3
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.connect.share@2f75d100c2a4
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.connect.share@2f75d100c2a4
   assetPath: Packages/com.unity.connect.share
   name: com.unity.connect.share
   displayName: WebGL Publisher
@@ -523,7 +523,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.1
   source: 2
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.feature.2d@dd1ea8910f12
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.feature.2d@dd1ea8910f12
   assetPath: Packages/com.unity.feature.2d
   name: com.unity.feature.2d
   displayName: 2D
@@ -657,7 +657,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.2
   source: 2
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.feature.development@767aadbc6eb7
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.feature.development@767aadbc6eb7
   assetPath: Packages/com.unity.feature.development
   name: com.unity.feature.development
   displayName: Engineering
@@ -758,7 +758,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.14.0
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.inputsystem@7fe8299111a7
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.inputsystem@7fe8299111a7
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -909,7 +909,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 5.0.0
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.learn.iet-framework@6c76d1b9ae59
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.learn.iet-framework@6c76d1b9ae59
   assetPath: Packages/com.unity.learn.iet-framework
   name: com.unity.learn.iet-framework
   displayName: Tutorial Framework
@@ -1056,7 +1056,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -1146,7 +1146,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 17.1.0
   source: 2
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.render-pipelines.universal@5ed031f116da
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.render-pipelines.universal@5ed031f116da
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal Render Pipeline
@@ -1308,7 +1308,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.5.1
   source: 2
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.test-framework@607a88b8f2d7
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.test-framework@607a88b8f2d7
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1446,7 +1446,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.7
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.timeline@c58b4ee65782
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.timeline@c58b4ee65782
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1632,7 +1632,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.ugui@f55986520ec2
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.ugui@f55986520ec2
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1727,7 +1727,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.6
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.visualscripting@7dcdc439b230
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.visualscripting@7dcdc439b230
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -4280,7 +4280,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.5
   source: 2
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.ext.nunit@031a54704bff
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.ext.nunit@031a54704bff
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -4359,7 +4359,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.1.0
   source: 2
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.render-pipelines.core@bb00910dd6f7
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.render-pipelines.core@bb00910dd6f7
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Scriptable Render Pipeline Core
@@ -4573,7 +4573,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.1.0
   source: 2
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.shadergraph@26dc5ae27e7d
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.shadergraph@26dc5ae27e7d
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -4776,7 +4776,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.3
   source: 2
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.render-pipelines.universal-config@6af1487fecff
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.render-pipelines.universal-config@6af1487fecff
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal Render Pipeline Config
@@ -4874,7 +4874,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.editorcoroutines@7d48783e7b8c
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.editorcoroutines@7d48783e7b8c
   assetPath: Packages/com.unity.editorcoroutines
   name: com.unity.editorcoroutines
   displayName: Editor Coroutines
@@ -4951,7 +4951,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.1.0
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.settings-manager@41738c275190
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.settings-manager@41738c275190
   assetPath: Packages/com.unity.settings-manager
   name: com.unity.settings-manager
   displayName: Settings Manager
@@ -5028,7 +5028,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.23
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -5134,7 +5134,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.0.36
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -5252,7 +5252,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.3
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.performance.profile-analyzer@a68e7bc84997
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.performance.profile-analyzer@a68e7bc84997
   assetPath: Packages/com.unity.performance.profile-analyzer
   name: com.unity.performance.profile-analyzer
   displayName: Profile Analyzer
@@ -5337,7 +5337,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.6
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.testtools.codecoverage@205a02cbcb39
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.testtools.codecoverage@205a02cbcb39
   assetPath: Packages/com.unity.testtools.codecoverage
   name: com.unity.testtools.codecoverage
   displayName: Code Coverage
@@ -5460,7 +5460,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 10.2.0
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.2d.animation@53bd21164c9c
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.2d.animation@53bd21164c9c
   assetPath: Packages/com.unity.2d.animation
   name: com.unity.2d.animation
   displayName: 2D Animation
@@ -5713,7 +5713,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 5.1.0
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.2d.pixel-perfect@2f2037a56bf7
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.2d.pixel-perfect@2f2037a56bf7
   assetPath: Packages/com.unity.2d.pixel-perfect
   name: com.unity.2d.pixel-perfect
   displayName: 2D Pixel Perfect
@@ -5814,7 +5814,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 10.1.0
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.2d.psdimporter@7cfb89931061
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.2d.psdimporter@7cfb89931061
   assetPath: Packages/com.unity.2d.psdimporter
   name: com.unity.2d.psdimporter
   displayName: 2D PSD Importer
@@ -6007,7 +6007,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.2d.sprite@8e227b7a8e02
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.2d.sprite@8e227b7a8e02
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -6077,7 +6077,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 10.1.0
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.2d.spriteshape@49c1d1a01890
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.2d.spriteshape@49c1d1a01890
   assetPath: Packages/com.unity.2d.spriteshape
   name: com.unity.2d.spriteshape
   displayName: 2D SpriteShape
@@ -6276,7 +6276,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.2d.tilemap@e08379fa62fd
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.2d.tilemap@e08379fa62fd
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -6363,7 +6363,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.3.0
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.2d.tilemap.extras@eefc9f6533f8
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.2d.tilemap.extras@eefc9f6533f8
   assetPath: Packages/com.unity.2d.tilemap.extras
   name: com.unity.2d.tilemap.extras
   displayName: 2D Tilemap Extras
@@ -6516,7 +6516,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.4
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.2d.aseprite@85ecd97bb34e
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.2d.aseprite@85ecd97bb34e
   assetPath: Packages/com.unity.2d.aseprite
   name: com.unity.2d.aseprite
   displayName: 2D Aseprite Importer
@@ -6652,7 +6652,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.8.0
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.splines@30918147f39c
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.splines@30918147f39c
   assetPath: Packages/com.unity.splines
   name: com.unity.splines
   displayName: Splines
@@ -6767,7 +6767,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.9.3
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.searcher@1e17ce91558d
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.searcher@1e17ce91558d
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -6854,7 +6854,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.8.21
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.burst@59eb6f11d242
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.burst@59eb6f11d242
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -7091,7 +7091,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.3.2
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.mathematics@8017b507cc74
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.mathematics@8017b507cc74
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -7180,7 +7180,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.5.1
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.collections@56bff8827a7e
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.collections@56bff8827a7e
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -7357,7 +7357,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.1
   source: 2
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.rendering.light-transport@56c10358ff14
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.rendering.light-transport@56c10358ff14
   assetPath: Packages/com.unity.rendering.light-transport
   name: com.unity.rendering.light-transport
   displayName: Unity Light Transport Library
@@ -7453,7 +7453,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 9.1.0
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.2d.common@2df623fe8b00
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.2d.common@2df623fe8b00
   assetPath: Packages/com.unity.2d.common
   name: com.unity.2d.common
   displayName: 2D Common
@@ -7620,7 +7620,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.11.4
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f
   assetPath: Packages/com.unity.nuget.mono-cecil
   name: com.unity.nuget.mono-cecil
   displayName: Mono Cecil
@@ -7702,7 +7702,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.1.0
   source: 1
-  resolvedPath: E:\Project_Unity\Learn_2\Library\PackageCache\com.unity.test-framework.performance@92d1d09a72ed
+  resolvedPath: E:\Project_Unity\Learn-Unity\Learn_2\Library\PackageCache\com.unity.test-framework.performance@92d1d09a72ed
   assetPath: Packages/com.unity.test-framework.performance
   name: com.unity.test-framework.performance
   displayName: Performance testing API
